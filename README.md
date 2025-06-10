@@ -7,18 +7,18 @@
 ---
 
 ## 🔍 What I Do
-- Design & deploy large-scale **ML systems** for $3B+ pipelines using **Kubeflow**, **Spark**, **Snowflake**, & **Databricks**
-- Build **real-time data pipelines**, behavioral analytics, and **transformer-based models** that drive customer and business impact
-- Translate economic and regulatory priorities into production-ready data science solutions
-- Advocate for **fair lending**, **AI reproducibility**, and **ethical experimentation**
+- Design & deploy large-scale **ML systems** using tools like **Kubeflow**, **Spark**, and modern cloud platforms
+- Build **real-time pipelines**, behavioral models, and **deep learning systems** that inform decision-making
+- Align business, regulatory, and human-centered goals through practical machine learning
+- Focus areas: **fairness**, **experimentation platforms**, and **AI reproducibility**
 
 ---
 
-## 🚀 Recent Highlights
-- Deployed a 40M+ customer **personalization engine** with 40%+ lift over legacy systems
-- Cut **experimentation cycle time by 50%** via platform innovation
-- Integrated **cold-start simulations** into recommender systems for product content launches
-- Researched **AR/VR-based human motion analysis** and **real-time robotic control**
+## 🚀 Recent Work
+- Scaled a large personalization system with measurable impact on user experience
+- Led initiatives that accelerated **experimentation** and **model iteration cycles**
+- Integrated **cold-start handling** into recommender pipelines
+- Past research includes **human-computer interaction**, **AR/VR**, and **robotics**
 
 ---
 

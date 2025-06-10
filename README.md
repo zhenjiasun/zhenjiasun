@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sunny (Zhen Jia) Sun
 
 🎯 **Senior Data Scientist @ Capital One**  
-💡 I specialize in transforming complex data into actionable insights across credit risk, behavioral economics, and responsible AI.  
+💡 I work at the intersection of machine learning, behavioral science, and responsible AI.  
 📍 Based in Arlington, VA | 🌐 Previously: UC Berkeley | UChicago | Georgia Tech (in progress)
 
 ---

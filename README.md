@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sunny (Zhen Jia) Sun
+# 👋 Hi, I'm Sunny Sun
 
 🎯 **Senior Data Scientist @ Capital One**  
 💡 I work at the intersection of machine learning, behavioral science, and responsible AI.  

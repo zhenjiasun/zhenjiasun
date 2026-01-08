@@ -23,9 +23,9 @@
 ---
 
 ## 🎓 Education
-- 📘 **Georgia Institute of Technology** – M.S. Computer Science *(in progress)*  
-- 🎓 **University of Chicago** – M.S. Applied Data Science *(Dec 2023)*  
-- 🐻 **UC Berkeley** – B.A. Applied Math & Data Science | Minor in Music 🎵 *(Dec 2021)*
+- 📘 **Georgia Institute of Technology** – M.S. Computer Science 
+- 🎓 **University of Chicago** – M.S. Applied Data Science 
+- 🐻 **UC Berkeley** – B.A. Applied Math & Data Science | Minor in Music 🎵 
 
 ---
 <!-- Tech Stack -->

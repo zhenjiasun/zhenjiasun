@@ -1,8 +1,7 @@
-# 👋 Hi, I'm Sunny Sun
+# 👋 Hi, I'm Sunny 
 
-🎯 **Senior Data Scientist @ Capital One**  
 💡 I work at the intersection of machine learning, behavioral science, and responsible AI.  
-📍 Based in Arlington, VA | 🌐 Previously: UC Berkeley | UChicago | Georgia Tech (in progress)
+📍 Based in Arlington, VA 
 
 ---
 
@@ -17,16 +16,13 @@
 ## 🚀 Recent Work
 - Scaled a large personalization system with measurable impact on user experience
 - Led initiatives that accelerated **experimentation** and **model iteration cycles**
-- Integrated **cold-start handling** into recommender pipelines
-- Past research includes **human-computer interaction**, **AR/VR**, and **robotics**
 
 ---
 
 ## 🎓 Education
-- 📘 **Georgia Institute of Technology** – M.S. Computer Science 
-- 🎓 **University of Chicago** – M.S. Applied Data Science 
-- 🐻 **UC Berkeley** – B.A. Applied Math & Data Science | Minor in Music 🎵 
-
+- 📘 **Georgia Institute of Technology** 
+- 🎓 **University of Chicago** 
+- 🐻 **UC Berkeley** 
 ---
 <!-- Tech Stack -->
 <h2 align="center">🛠️ Skills&nbsp;&&nbsp;Tools</h2>
